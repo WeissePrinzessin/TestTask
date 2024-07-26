@@ -16,7 +16,7 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/swaggo/files"
 	"github.com/swaggo/gin-swagger"
-	_ "./docs"
+	 _ "github.com/WeissePrinzessin/TestTask/docs"
 )
 
 // @title People Info API
